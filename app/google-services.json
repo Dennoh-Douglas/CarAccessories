@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2024202806",
+    "project_id": "mvvmproject-220a6",
+    "storage_bucket": "mvvmproject-220a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2024202806:android:1a1285cb93a79d6eb66e97",
+        "android_client_info": {
+          "package_name": "com.example.mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpAEkrk4rxZdhRm7Jb6-RcLkoIaO80Ngs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
